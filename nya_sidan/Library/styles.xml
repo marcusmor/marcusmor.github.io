@@ -1,0 +1,10 @@
+<mm:style name="Fet" type="char" apply="add" bold />
+<mm:style name="Bildtext" format="p" align="center" apply="replace" font="Arial, Helvetica, sans-serif" size="2" color="#808080" bold italic />
+<mm:style name="Copyright" format="p" align="center" apply="replace" font="Georgia, Times New Roman, Times, serif" size="1" italic />
+<mm:style name="Framhävd, sans-serif" type="char" apply="replace" font="Verdana, Arial, Helvetica, sans-serif" bold />
+<mm:style name="Fast bredd" type="char" apply="replace" font="Courier New, Courier, mono" />
+<mm:style name="namnlös1" type="char" apply="replace" />
+<mm:style name="namnlös2" type="char" apply="replace" />
+<mm:style name="Rubrik" align="left" apply="replace" font="Verdana, Arial, Helvetica, sans-serif" size="+2" bold />
+<mm:style name="Normal" apply="replace" font="Georgia, Times New Roman, Times, serif" size="+1" />
+<mm:style name="Röd" type="char" apply="add" color="#FF0000" />

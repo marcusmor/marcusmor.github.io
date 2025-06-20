@@ -1,0 +1,45 @@
+
+function writeMenu() {
+  document.writeln('<table width="100" border="0">');
+  document.writeln('<tr>');
+  document.writeln('<td width="100">');
+  document.write('<a href="start.htm"');
+  document.write(' onMouseOver="MM_swapImage(\'Image1\',\'\',\'images/jpg/homeover.jpg\',0)"');
+  document.write(' onMouseOut="MM_swapImgRestore()">');
+  document.write('<img src="images/jpg/home.jpg" width="100" height="30" border="0" alt="home" name="Image1">');
+  document.write('</a></td>');
+  document.writeln('</tr>');
+  document.writeln('<tr>');
+  document.writeln('<td width="100"><a href="crew.htm" onMouseOver="MM_swapImage(\'Image2\',\'\',\'images/jpg/crewover.jpg\',0)" onMouseOut="MM_swapImgRestore()"><img src="images/jpg/crew.jpg" width="100" height="30" alt="Crew" name="Image2" border="0"></a></td>');
+  document.writeln('</tr>');
+  document.writeln('<tr>');
+  document.writeln('<td width="100"><a href="termine.htm" onMouseOver="MM_swapImage(\'Image3\',\'\',\'images/jpg/termineover.jpg\',0)" onMouseOut="MM_swapImgRestore()"><img src="images/jpg/termine.jpg" width="100" height="30" alt="Termine" name="Image3" border="0"></a></td>');
+  document.writeln('</tr>');
+  document.writeln('<tr>');
+  document.writeln('<td width="100"><a href="javascript:void(0)" onclick="return false" onmouseout="popDown(\'elMenu3\');MM_swapImgRestore();" onmouseover="popUp(\'elMenu3\',event);MM_swapImage(\'resultate\',\'\',\'images/jpg/resultateover.jpg\',1)"><img src="images/jpg/resultate.jpg" width="100" height="30" alt="Resultate" name="resultate" border="0"></a></td>');
+  document.writeln('</tr>');
+  document.writeln('<tr>');
+  document.writeln('<td width="100"><A href="javascript:void(0)" onclick="return false" onmouseout="popDown(\'elMenu1\');MM_swapImgRestore();" onmouseover="popUp(\'elMenu1\',event);MM_swapImage(\'photos\',\'\',\'images/jpg/photosover.jpg\',1)"><img border="0" src="images/jpg/photos.jpg" width="100" height="30" name="photos"></a></td>');
+  document.writeln('</tr>');
+  document.writeln('<tr>');
+  document.writeln('<td width="100"><a href="sound.htm" onMouseOver="MM_swapImage(\'Image5\',\'\',\'images/jpg/soundover.jpg\',0)" onMouseOut="MM_swapImgRestore()"><img src="images/jpg/sound.jpg" width="100" height="30" alt="Sound" name="Image5" border="0"></a></td>');
+  document.writeln('</tr>');
+  document.writeln('<tr>');
+  document.writeln('<td width="100"><a href="theboat.htm" onMouseOver="MM_swapImage(\'Image6\',\'\',\'images/jpg/theboatover.jpg\',0)" onMouseOut="MM_swapImgRestore()"><img src="images/jpg/theboat.jpg" width="100" height="30" alt="X99 the boat" name="Image6" border="0"></a></td>');
+  document.writeln('</tr>');
+  document.writeln('<tr>');
+  document.writeln('<td width="100"><a href="links.htm" onMouseOver="MM_swapImage(\'Image7\',\'\',\'images/jpg/linksover.jpg\',0)" onMouseOut="MM_swapImgRestore()"><img src="images/jpg/links.jpg" width="100" height="30" alt="Links" name="Image7" border="0"></a></td>');
+  document.writeln('</tr>');
+  document.writeln('<tr>');
+  document.writeln('<td width="100"><A href="javascript:void(0)" onclick="return false" onmouseout="popDown(\'elMenu2\');MM_swapImgRestore();" onmouseover="popUp(\'elMenu2\',event);MM_swapImage(\'berichte\',\'\',\'images/jpg/berichteover.jpg\',1)"><img border="0" src="images/jpg/berichte.jpg" width="100" height="30" name="berichte"></a></td>');
+  document.writeln('</tr>');
+  document.writeln('<tr>');
+  document.writeln('<td width="100"><a href="guestbook.html" onMouseOver="MM_swapImage(\'Image8\',\'\',\'images/jpg/guestbookover.jpg\',0)" onMouseOut="MM_swapImgRestore()"><img src="images/jpg/guestbook.jpg" width="100" height="30" alt="Guestbook" name="Image8" border="0"></a></td>');
+  document.writeln('</tr>');
+  document.writeln('</table>');
+  document.writeln('<br><br><br>');
+  document.writeln('<table width="100%" border="0"><tr><td>');
+  document.writeln('<font face="Arial, Helvetica, sans-serif" size="2" color="#CCCCCC">Treten Sie ein:<br></font><a href="http://www.americanbar-blue.com" target="_blank"><img src="images/jpg/blue_small.jpg" width="100" height="100" border="0"></a>');
+  document.writeln('<br><a href="http://www.regatta-bodensee.com" target="_blank"><img src="images/gif/rb.gif" BORDER="0"></a>');
+  document.writeln('</td></tr></table>');
+}

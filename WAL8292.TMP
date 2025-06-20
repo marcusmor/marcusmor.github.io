@@ -1,0 +1,15 @@
+<HTML>
+<HEAD>
+<TITLE>C:\AAA\OVRIGT\BÅTEN\99'AN\Webb-sidan\Batmar.htm</TITLE>
+</HEAD>
+<BODY>
+<APPLET CODE = "Barista.class"  width =816 height =1057>
+<param name =Version value = "1">
+<param name =PageDir value = "Batmar">
+<param name =BackgroundColor value = "ffffff">
+<param name =XYDPI value = "96">
+<param name =NumOfPages value = "1">
+<param name =P1 value = "G1 ">
+</APPLET >
+</BODY>
+</HTML>

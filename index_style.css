@@ -1,0 +1,32 @@
+/* VisualVision iPer CSS */
+
+/* [no style] */
+DIV.s0 {
+	font-family:"Times New Roman";
+	font-size:12pt;
+	color:#000000;
+	margin-left:3mm;
+	margin-right:3mm;
+	margin-top:0mm;
+	margin-bottom:0mm;
+	text-indent:0mm;
+	text-align:left;
+	list-style-type:none;	}
+A.s0 {
+	color:#0000FF;
+	}
+/* [no style intab] */
+DIV.s1 {
+	font-family:"Times New Roman";
+	font-size:12pt;
+	color:#000000;
+	margin-left:0mm;
+	margin-right:0mm;
+	margin-top:0mm;
+	margin-bottom:0mm;
+	text-indent:0mm;
+	text-align:left;
+	list-style-type:none;	}
+A.s1 {
+	color:#0000FF;
+	}
